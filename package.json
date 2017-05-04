@@ -1,0 +1,23 @@
+{
+  "name": "epub_parser",
+  "version": "1.0.0",
+  "description": "EPUB 3 parser for Node.js",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisauclair/epub_parser.git"
+  },
+  "keywords": [
+    "epub",
+    "parser"
+  ],
+  "author": "Chris Auclair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisauclair/epub_parser/issues"
+  },
+  "homepage": "https://github.com/chrisauclair/epub_parser#readme"
+}
